@@ -1,0 +1,17 @@
+{
+  "wheel_id": 100,
+  "slug": "ballaratmortgagebroker-150",
+  "project": "ballarat-refinancing-mortgage-broker-b-150",
+  "parent_t1_ref": "ballaratmortgagebroker-002",
+  "node_role": "buffer",
+  "money_target": "ballaratmortgagebroker.com.au",
+  "primary_kw": "ballarat refinancing mortgage broker",
+  "intended_url": "https://ballarat-refinancing-mortgage-broker-b-150.pages.dev/",
+  "links": [
+    {
+      "target_url": "https://ballarat-refinancing-mortgage-broker.netlify.app/",
+      "anchor": "ballarat refinancing mortgage broker",
+      "rel": "follow"
+    }
+  ]
+}
